@@ -26,3 +26,4 @@ ssh-copy-id -i ~/.ssh/ansible.pub 192.168.200.50
 ```
 ansible all -m ping --key-file ~/.ssh/ansible
 ```
+!
