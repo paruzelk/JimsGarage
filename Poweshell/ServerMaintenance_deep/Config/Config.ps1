@@ -84,28 +84,6 @@ $SMFConfig = @{
                 "Guest"
             )
         }
-        # User Profiles Cleanup (stale profiles)
-UserProfiles = @{
-    Enabled              = $false
-    MaxAgeDays           = 90
-    ADMode               = "Disabled"          # "Disabled", "Enabled", "All"
-    ExcludedUsers        = @(
-        "Administrator",
-        "Default",
-        "Default User",
-        "Public",
-        "Guest"
-    )
-    DomainOnly           = $true
-    MinimumProfileSizeMB = 50
-    ConfirmBeforeDelete  = $true
-    ProtectedGroupSIDs   = @(
-        "S-1-5-21-*-512",   # Domain Admins
-        "S-1-5-21-*-519",   # Enterprise Admins
-        "S-1-5-21-*-518",   # Schema Admins
-        "S-1-5-32-544"      # Builtin Administrators
-    )
-}
     }
 
     # Module definitions
@@ -155,11 +133,6 @@ UserProfiles = @{
             Order    = 70
             Profiles = @("Analyze", "Day", "Night")
         }
-        "Clear-UserProfiles" = @{
-    Enabled  = $true
-    Order    = 80
-    Profiles = @("Analyze", "Day", "Night")
-}
     }
 
     # Reports directory (relative to this config file)
