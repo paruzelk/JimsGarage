@@ -1,0 +1,1593 @@
+﻿2026-07-10 22:30:04 [INFO] ========== SMF START ==========
+2026-07-10 22:30:04 [INFO] SMF started
+2026-07-10 22:30:04 [INFO] Profile: Analyze
+2026-07-10 22:30:05 [INFO] Loading modules
+2026-07-10 22:30:05 [INFO] Registered module: Clear-WindowsLogs
+2026-07-10 22:30:05 [INFO] Registered module: Clear-Temp
+2026-07-10 22:30:05 [INFO] Registered module: Clear-IISLogs
+2026-07-10 22:30:05 [INFO] Registered module: Test-Module
+2026-07-10 22:30:05 [INFO] Registered module: Clear-EdgeCache
+2026-07-10 22:30:05 [INFO] Registered module: Clear-ChromeCache
+2026-07-10 22:30:05 [INFO] Registered module: Clear-WER
+2026-07-10 22:30:05 [INFO] Registered module: Clear-YandexCache
+2026-07-10 22:30:05 [INFO] Executing modules
+2026-07-10 22:30:05 [INFO] Executing module: Test-Module
+2026-07-10 22:30:05 [INFO] Executing module: Clear-Temp
+2026-07-10 22:30:05 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-10 22:30:05 [INFO] Executing module: Clear-WindowsLogs
+2026-07-10 22:30:05 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-10 22:30:05 [INFO] Executing module: Clear-YandexCache
+2026-07-10 22:30:05 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-10 22:30:05 [INFO] Executing module: Clear-ChromeCache
+2026-07-10 22:30:05 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-10 22:30:05 [INFO] Executing module: Clear-EdgeCache
+2026-07-10 22:30:05 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-10 22:30:05 [INFO] Executing module: Clear-IISLogs
+2026-07-10 22:30:05 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-10 22:30:05 [INFO] Executing module: Clear-WER
+2026-07-10 22:30:05 [INFO] Module finished: Clear-WER (Completed)
+2026-07-10 22:30:05 [INFO] SMF finished
+2026-07-10 22:32:59 [INFO] ========== SMF START ==========
+2026-07-10 22:32:59 [INFO] SMF started
+2026-07-10 22:32:59 [INFO] Profile: Day
+2026-07-10 22:32:59 [INFO] Loading modules
+2026-07-10 22:32:59 [INFO] Registered module: Clear-WindowsLogs
+2026-07-10 22:32:59 [INFO] Registered module: Clear-Temp
+2026-07-10 22:32:59 [INFO] Registered module: Clear-IISLogs
+2026-07-10 22:32:59 [INFO] Registered module: Test-Module
+2026-07-10 22:32:59 [INFO] Registered module: Clear-EdgeCache
+2026-07-10 22:32:59 [INFO] Registered module: Clear-ChromeCache
+2026-07-10 22:32:59 [INFO] Registered module: Clear-WER
+2026-07-10 22:32:59 [INFO] Registered module: Clear-YandexCache
+2026-07-10 22:32:59 [INFO] Executing modules
+2026-07-10 22:32:59 [INFO] Executing module: Test-Module
+2026-07-10 22:32:59 [INFO] Executing module: Clear-Temp
+2026-07-10 22:32:59 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-10 22:32:59 [INFO] Executing module: Clear-WindowsLogs
+2026-07-10 22:33:01 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-10 22:33:01 [INFO] Executing module: Clear-YandexCache
+2026-07-10 22:33:08 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-10 22:33:08 [INFO] Executing module: Clear-ChromeCache
+2026-07-10 22:33:08 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-10 22:33:08 [INFO] Executing module: Clear-EdgeCache
+2026-07-10 22:33:11 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-10 22:33:11 [INFO] Executing module: Clear-IISLogs
+2026-07-10 22:33:11 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-10 22:33:11 [INFO] Executing module: Clear-WER
+2026-07-10 22:33:11 [INFO] Module finished: Clear-WER (Completed)
+2026-07-10 22:33:11 [INFO] SMF finished
+2026-07-10 22:44:14 [INFO] ========== SMF START ==========
+2026-07-10 22:44:14 [INFO] SMF started
+2026-07-10 22:44:14 [INFO] Profile: Analyze
+2026-07-10 22:44:14 [INFO] Loading modules
+2026-07-10 22:44:14 [INFO] Registered module: Clear-WindowsLogs
+2026-07-10 22:44:14 [INFO] Registered module: Clear-Temp
+2026-07-10 22:44:14 [INFO] Registered module: Clear-IISLogs
+2026-07-10 22:44:14 [INFO] Registered module: Test-Module
+2026-07-10 22:44:14 [INFO] Registered module: Clear-EdgeCache
+2026-07-10 22:44:14 [INFO] Registered module: Clear-ChromeCache
+2026-07-10 22:44:14 [INFO] Registered module: Clear-WER
+2026-07-10 22:44:14 [INFO] Registered module: Clear-YandexCache
+2026-07-10 22:44:14 [INFO] Executing modules
+2026-07-10 22:44:14 [INFO] Executing module: Test-Module
+2026-07-10 22:44:14 [INFO] Executing module: Clear-Temp
+2026-07-10 22:44:14 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-10 22:44:14 [INFO] Executing module: Clear-WindowsLogs
+2026-07-10 22:44:15 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-10 22:44:15 [INFO] Executing module: Clear-YandexCache
+2026-07-10 22:44:15 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-10 22:44:15 [INFO] Executing module: Clear-ChromeCache
+2026-07-10 22:44:15 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-10 22:44:15 [INFO] Executing module: Clear-EdgeCache
+2026-07-10 22:44:15 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-10 22:44:15 [INFO] Executing module: Clear-IISLogs
+2026-07-10 22:44:15 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-10 22:44:15 [INFO] Executing module: Clear-WER
+2026-07-10 22:44:15 [INFO] Module finished: Clear-WER (Completed)
+2026-07-10 22:44:15 [INFO] SMF finished
+2026-07-10 23:08:57 [INFO] ========== SMF START ==========
+2026-07-10 23:08:57 [INFO] SMF started
+2026-07-10 23:08:57 [INFO] Profile: Analyze
+2026-07-10 23:08:57 [INFO] Loading modules
+2026-07-10 23:08:57 [INFO] Registered module: Clear-WindowsLogs
+2026-07-10 23:08:57 [INFO] Registered module: Clear-Temp
+2026-07-10 23:08:57 [INFO] Registered module: Clear-IISLogs
+2026-07-10 23:08:57 [INFO] Registered module: Test-Module
+2026-07-10 23:08:57 [INFO] Registered module: Clear-EdgeCache
+2026-07-10 23:08:57 [INFO] Registered module: Clear-ChromeCache
+2026-07-10 23:08:58 [INFO] Registered module: Clear-WER
+2026-07-10 23:08:58 [INFO] Registered module: Clear-YandexCache
+2026-07-10 23:08:58 [INFO] Executing modules
+2026-07-10 23:08:58 [INFO] Executing module: Test-Module
+2026-07-10 23:08:58 [INFO] Executing module: Clear-Temp
+2026-07-10 23:08:58 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-10 23:08:58 [INFO] Executing module: Clear-WindowsLogs
+2026-07-10 23:08:58 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-10 23:08:58 [INFO] Executing module: Clear-YandexCache
+2026-07-10 23:08:58 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-10 23:08:58 [INFO] Executing module: Clear-ChromeCache
+2026-07-10 23:08:58 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-10 23:08:58 [INFO] Executing module: Clear-EdgeCache
+2026-07-10 23:08:58 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-10 23:08:58 [INFO] Executing module: Clear-IISLogs
+2026-07-10 23:08:58 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-10 23:08:58 [INFO] Executing module: Clear-WER
+2026-07-10 23:08:58 [INFO] Module finished: Clear-WER (Completed)
+2026-07-10 23:08:58 [INFO] SMF finished
+2026-07-10 23:12:06 [INFO] ========== SMF START ==========
+2026-07-10 23:12:06 [INFO] SMF started
+2026-07-10 23:12:06 [INFO] Profile: Analyze
+2026-07-10 23:12:06 [INFO] Loading modules
+2026-07-10 23:12:06 [INFO] Registered module: Clear-WindowsLogs
+2026-07-10 23:12:06 [INFO] Registered module: Clear-Temp
+2026-07-10 23:12:06 [INFO] Registered module: Clear-IISLogs
+2026-07-10 23:12:06 [INFO] Registered module: Test-Module
+2026-07-10 23:12:06 [INFO] Registered module: Clear-EdgeCache
+2026-07-10 23:12:06 [INFO] Registered module: Clear-ChromeCache
+2026-07-10 23:12:06 [INFO] Registered module: Clear-WER
+2026-07-10 23:12:06 [INFO] Registered module: Clear-YandexCache
+2026-07-10 23:12:06 [INFO] Executing modules
+2026-07-10 23:12:06 [INFO] Executing module: Test-Module
+2026-07-10 23:12:06 [INFO] Executing module: Clear-Temp
+2026-07-10 23:12:06 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-10 23:12:06 [INFO] Executing module: Clear-WindowsLogs
+2026-07-10 23:12:06 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-10 23:12:06 [INFO] Executing module: Clear-YandexCache
+2026-07-10 23:12:06 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-10 23:12:06 [INFO] Executing module: Clear-ChromeCache
+2026-07-10 23:12:06 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-10 23:12:06 [INFO] Executing module: Clear-EdgeCache
+2026-07-10 23:12:06 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-10 23:12:06 [INFO] Executing module: Clear-IISLogs
+2026-07-10 23:12:06 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-10 23:12:06 [INFO] Executing module: Clear-WER
+2026-07-10 23:12:06 [INFO] Module finished: Clear-WER (Completed)
+2026-07-10 23:12:06 [INFO] SMF finished
+2026-07-10 23:15:41 [INFO] ========== SMF START ==========
+2026-07-10 23:15:41 [INFO] SMF started
+2026-07-10 23:15:41 [INFO] Profile: Analyze
+2026-07-10 23:15:41 [INFO] Loading modules
+2026-07-10 23:15:41 [INFO] Registered module: Clear-WindowsLogs
+2026-07-10 23:15:41 [INFO] Registered module: Clear-Temp
+2026-07-10 23:15:41 [INFO] Registered module: Clear-IISLogs
+2026-07-10 23:15:41 [INFO] Registered module: Test-Module
+2026-07-10 23:15:41 [INFO] Registered module: Clear-EdgeCache
+2026-07-10 23:15:41 [INFO] Registered module: Clear-ChromeCache
+2026-07-10 23:15:41 [INFO] Registered module: Clear-WER
+2026-07-10 23:15:41 [INFO] Registered module: Clear-YandexCache
+2026-07-10 23:15:41 [INFO] Executing modules
+2026-07-10 23:15:41 [INFO] Executing module: Test-Module
+2026-07-10 23:15:41 [INFO] Executing module: Clear-Temp
+2026-07-10 23:15:41 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-10 23:15:41 [INFO] Executing module: Clear-WindowsLogs
+2026-07-10 23:15:41 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-10 23:15:41 [INFO] Executing module: Clear-YandexCache
+2026-07-10 23:15:41 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-10 23:15:41 [INFO] Executing module: Clear-ChromeCache
+2026-07-10 23:15:41 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-10 23:15:41 [INFO] Executing module: Clear-EdgeCache
+2026-07-10 23:15:41 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-10 23:15:41 [INFO] Executing module: Clear-IISLogs
+2026-07-10 23:15:41 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-10 23:15:41 [INFO] Executing module: Clear-WER
+2026-07-10 23:15:41 [INFO] Module finished: Clear-WER (Completed)
+2026-07-10 23:15:42 [INFO] SMF finished
+2026-07-10 23:19:08 [INFO] ========== SMF START ==========
+2026-07-10 23:19:08 [INFO] SMF started
+2026-07-10 23:19:08 [INFO] Profile: Analyze
+2026-07-10 23:19:09 [INFO] Loading modules
+2026-07-10 23:19:09 [INFO] Registered module: Clear-WindowsLogs
+2026-07-10 23:19:09 [INFO] Registered module: Clear-Temp
+2026-07-10 23:19:09 [INFO] Registered module: Clear-IISLogs
+2026-07-10 23:19:09 [INFO] Registered module: Test-Module
+2026-07-10 23:19:09 [INFO] Registered module: Clear-EdgeCache
+2026-07-10 23:19:09 [INFO] Registered module: Clear-ChromeCache
+2026-07-10 23:19:09 [INFO] Registered module: Clear-WER
+2026-07-10 23:19:09 [INFO] Registered module: Clear-YandexCache
+2026-07-10 23:19:09 [INFO] Executing modules
+2026-07-10 23:19:09 [INFO] Executing module: Test-Module
+2026-07-10 23:19:09 [INFO] Executing module: Clear-Temp
+2026-07-10 23:19:09 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-10 23:19:09 [INFO] Executing module: Clear-WindowsLogs
+2026-07-10 23:19:09 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-10 23:19:09 [INFO] Executing module: Clear-YandexCache
+2026-07-10 23:19:09 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-10 23:19:09 [INFO] Executing module: Clear-ChromeCache
+2026-07-10 23:19:09 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-10 23:19:09 [INFO] Executing module: Clear-EdgeCache
+2026-07-10 23:19:09 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-10 23:19:09 [INFO] Executing module: Clear-IISLogs
+2026-07-10 23:19:09 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-10 23:19:09 [INFO] Executing module: Clear-WER
+2026-07-10 23:19:09 [INFO] Module finished: Clear-WER (Completed)
+2026-07-10 23:19:09 [INFO] SMF finished
+2026-07-10 23:38:36 [INFO] ========== SMF START ==========
+2026-07-10 23:38:36 [INFO] SMF started
+2026-07-10 23:38:36 [INFO] Profile: Day
+2026-07-10 23:38:36 [INFO] Loading modules
+2026-07-10 23:38:36 [INFO] Registered module: Clear-WindowsLogs
+2026-07-10 23:38:36 [INFO] Registered module: Clear-Temp
+2026-07-10 23:38:36 [INFO] Registered module: Clear-IISLogs
+2026-07-10 23:38:36 [INFO] Registered module: Test-Module
+2026-07-10 23:38:36 [INFO] Registered module: Clear-EdgeCache
+2026-07-10 23:38:36 [INFO] Registered module: Clear-ChromeCache
+2026-07-10 23:38:36 [INFO] Registered module: Clear-WER
+2026-07-10 23:38:36 [INFO] Registered module: Clear-YandexCache
+2026-07-10 23:38:36 [INFO] Executing modules
+2026-07-10 23:38:36 [INFO] Executing module: Test-Module
+2026-07-10 23:38:37 [INFO] Executing module: Clear-Temp
+2026-07-10 23:38:37 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-10 23:38:37 [INFO] Executing module: Clear-WindowsLogs
+2026-07-10 23:38:37 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-10 23:38:37 [INFO] Executing module: Clear-YandexCache
+2026-07-10 23:38:37 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-10 23:38:37 [INFO] Executing module: Clear-ChromeCache
+2026-07-10 23:38:37 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-10 23:38:37 [INFO] Executing module: Clear-EdgeCache
+2026-07-10 23:38:37 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-10 23:38:37 [INFO] Executing module: Clear-IISLogs
+2026-07-10 23:38:37 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-10 23:38:37 [INFO] Executing module: Clear-WER
+2026-07-10 23:38:37 [INFO] Module finished: Clear-WER (Completed)
+2026-07-10 23:38:37 [INFO] SMF finished
+2026-07-10 23:40:14 [INFO] ========== SMF START ==========
+2026-07-10 23:40:14 [INFO] SMF started
+2026-07-10 23:40:14 [INFO] Profile: Day
+2026-07-10 23:40:15 [INFO] Loading modules
+2026-07-10 23:40:15 [INFO] Registered module: Clear-WindowsLogs
+2026-07-10 23:40:15 [INFO] Registered module: Clear-Temp
+2026-07-10 23:40:15 [INFO] Registered module: Clear-IISLogs
+2026-07-10 23:40:15 [INFO] Registered module: Test-Module
+2026-07-10 23:40:15 [INFO] Registered module: Clear-EdgeCache
+2026-07-10 23:40:15 [INFO] Registered module: Clear-ChromeCache
+2026-07-10 23:40:15 [INFO] Registered module: Clear-WER
+2026-07-10 23:40:15 [INFO] Registered module: Clear-YandexCache
+2026-07-10 23:40:15 [INFO] Executing modules
+2026-07-10 23:40:15 [INFO] Executing module: Test-Module
+2026-07-10 23:40:15 [INFO] Executing module: Clear-Temp
+2026-07-10 23:40:15 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-10 23:40:15 [INFO] Executing module: Clear-WindowsLogs
+2026-07-10 23:40:15 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-10 23:40:15 [INFO] Executing module: Clear-YandexCache
+2026-07-10 23:40:15 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-10 23:40:15 [INFO] Executing module: Clear-ChromeCache
+2026-07-10 23:40:15 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-10 23:40:15 [INFO] Executing module: Clear-EdgeCache
+2026-07-10 23:40:15 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-10 23:40:15 [INFO] Executing module: Clear-IISLogs
+2026-07-10 23:40:15 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-10 23:40:15 [INFO] Executing module: Clear-WER
+2026-07-10 23:40:15 [INFO] Module finished: Clear-WER (Completed)
+2026-07-10 23:40:15 [INFO] SMF finished
+2026-07-10 23:46:28 [INFO] ========== SMF START ==========
+2026-07-10 23:46:28 [INFO] SMF started
+2026-07-10 23:46:28 [INFO] Profile: Day
+2026-07-10 23:46:28 [INFO] Loading modules
+2026-07-10 23:46:28 [INFO] Registered module: Clear-YandexCache
+2026-07-10 23:46:28 [INFO] Registered module: Clear-WindowsLogs
+2026-07-10 23:46:28 [INFO] Registered module: Clear-IISLogs
+2026-07-10 23:46:28 [INFO] Registered module: Clear-Temp
+2026-07-10 23:46:28 [INFO] Registered module: Clear-EdgeCache
+2026-07-10 23:46:28 [INFO] Registered module: Clear-RecycleBin
+2026-07-10 23:46:28 [INFO] Registered module: Clear-WER
+2026-07-10 23:46:28 [INFO] Registered module: Clear-ChromeCache
+2026-07-10 23:46:28 [INFO] Registered module: Test-Module
+2026-07-10 23:46:29 [INFO] Executing modules
+2026-07-10 23:46:29 [INFO] Executing module: Test-Module
+2026-07-10 23:46:29 [INFO] Executing module: Clear-Temp
+2026-07-10 23:46:29 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-10 23:46:29 [INFO] Executing module: Clear-RecycleBin
+2026-07-10 23:46:30 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-10 23:46:30 [INFO] Executing module: Clear-WindowsLogs
+2026-07-10 23:46:30 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-10 23:46:30 [INFO] Executing module: Clear-YandexCache
+2026-07-10 23:46:30 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-10 23:46:30 [INFO] Executing module: Clear-ChromeCache
+2026-07-10 23:46:30 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-10 23:46:30 [INFO] Executing module: Clear-EdgeCache
+2026-07-10 23:46:30 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-10 23:46:30 [INFO] Executing module: Clear-IISLogs
+2026-07-10 23:46:30 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-10 23:46:30 [INFO] Executing module: Clear-WER
+2026-07-10 23:46:30 [INFO] Module finished: Clear-WER (Completed)
+2026-07-10 23:46:30 [INFO] SMF finished
+2026-07-11 19:44:41 [INFO] ========== SMF START ==========
+2026-07-11 19:44:41 [INFO] SMF started
+2026-07-11 19:44:41 [INFO] Profile: Day
+2026-07-11 19:44:41 [INFO] Loading modules
+2026-07-11 19:44:41 [INFO] Registered module: Clear-YandexCache
+2026-07-11 19:44:41 [INFO] Registered module: Clear-WindowsLogs
+2026-07-11 19:44:41 [INFO] Registered module: Clear-IISLogs
+2026-07-11 19:44:41 [INFO] Registered module: Clear-Temp
+2026-07-11 19:44:42 [INFO] Registered module: Clear-EdgeCache
+2026-07-11 19:44:42 [INFO] Registered module: Clear-RecycleBin
+2026-07-11 19:44:42 [INFO] Registered module: Clear-WER
+2026-07-11 19:44:42 [INFO] Registered module: Clear-ChromeCache
+2026-07-11 19:44:42 [INFO] Registered module: Test-Module
+2026-07-11 19:44:42 [INFO] Executing modules
+2026-07-11 19:44:42 [INFO] Executing module: Test-Module
+2026-07-11 19:44:42 [INFO] Executing module: Clear-Temp
+2026-07-11 19:44:42 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-11 19:44:42 [INFO] Executing module: Clear-RecycleBin
+2026-07-11 19:44:42 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-11 19:44:42 [INFO] Executing module: Clear-WindowsLogs
+2026-07-11 19:44:43 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-11 19:44:43 [INFO] Executing module: Clear-YandexCache
+2026-07-11 19:44:46 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-11 19:44:46 [INFO] Executing module: Clear-ChromeCache
+2026-07-11 19:44:46 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-11 19:44:46 [INFO] Executing module: Clear-EdgeCache
+2026-07-11 19:44:46 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-11 19:44:46 [INFO] Executing module: Clear-IISLogs
+2026-07-11 19:44:46 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-11 19:44:46 [INFO] Executing module: Clear-WER
+2026-07-11 19:44:46 [INFO] Module finished: Clear-WER (Completed)
+2026-07-11 19:44:46 [INFO] SMF finished
+2026-07-11 20:27:43 [INFO] ========== SMF START ==========
+2026-07-11 20:27:43 [INFO] SMF started
+2026-07-11 20:27:43 [INFO] Profile: Day
+2026-07-11 20:27:43 [INFO] Loading modules
+2026-07-11 20:27:43 [INFO] Registered module: Clear-YandexCache
+2026-07-11 20:27:43 [INFO] Registered module: Clear-WindowsLogs
+2026-07-11 20:27:43 [INFO] Registered module: Clear-IISLogs
+2026-07-11 20:27:43 [INFO] Registered module: Clear-Temp
+2026-07-11 20:27:43 [INFO] Registered module: Clear-EdgeCache
+2026-07-11 20:27:43 [INFO] Registered module: Clear-RecycleBin
+2026-07-11 20:27:43 [INFO] Registered module: Clear-WER
+2026-07-11 20:27:43 [INFO] Registered module: Clear-ChromeCache
+2026-07-11 20:27:43 [INFO] Registered module: Test-Module
+2026-07-11 20:27:43 [INFO] Executing modules
+2026-07-11 20:27:43 [INFO] Executing module: Test-Module
+2026-07-11 20:27:43 [INFO] Module finished: Test-Module (Completed)
+2026-07-11 20:27:43 [INFO] Executing module: Clear-Temp
+2026-07-11 20:27:43 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-11 20:27:43 [INFO] Executing module: Clear-RecycleBin
+2026-07-11 20:27:43 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-11 20:27:43 [INFO] Executing module: Clear-WindowsLogs
+2026-07-11 20:27:44 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-11 20:27:44 [INFO] Executing module: Clear-YandexCache
+2026-07-11 20:27:45 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-11 20:27:45 [INFO] Executing module: Clear-ChromeCache
+2026-07-11 20:27:45 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-11 20:27:45 [INFO] Executing module: Clear-EdgeCache
+2026-07-11 20:27:45 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-11 20:27:45 [INFO] Executing module: Clear-IISLogs
+2026-07-11 20:27:45 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-11 20:27:45 [INFO] Executing module: Clear-WER
+2026-07-11 20:27:45 [INFO] Module finished: Clear-WER (Completed)
+2026-07-11 20:27:45 [INFO] SMF finished
+2026-07-11 20:45:57 [INFO] ========== SMF START ==========
+2026-07-11 20:45:57 [INFO] SMF started
+2026-07-11 20:45:57 [INFO] Profile: Analyze
+2026-07-11 20:45:57 [INFO] Loading modules
+2026-07-11 20:45:57 [INFO] Registered module: Clear-YandexCache
+2026-07-11 20:45:57 [INFO] Registered module: Clear-WindowsLogs
+2026-07-11 20:45:57 [INFO] Registered module: Clear-IISLogs
+2026-07-11 20:45:57 [INFO] Registered module: Clear-Temp
+2026-07-11 20:45:57 [INFO] Registered module: Clear-EdgeCache
+2026-07-11 20:45:57 [INFO] Registered module: Clear-RecycleBin
+2026-07-11 20:45:57 [INFO] Registered module: Clear-WER
+2026-07-11 20:45:57 [INFO] Registered module: Clear-ChromeCache
+2026-07-11 20:45:57 [INFO] Registered module: Test-Module
+2026-07-11 20:45:57 [INFO] Executing modules
+2026-07-11 20:45:57 [INFO] Executing module: Test-Module
+2026-07-11 20:45:57 [INFO] Module finished: Test-Module (Completed)
+2026-07-11 20:45:57 [INFO] Executing module: Clear-Temp
+2026-07-11 20:45:57 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-11 20:45:57 [INFO] Executing module: Clear-RecycleBin
+2026-07-11 20:45:58 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-11 20:45:58 [INFO] Executing module: Clear-WindowsLogs
+2026-07-11 20:45:58 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-11 20:45:58 [INFO] Executing module: Clear-YandexCache
+2026-07-11 20:45:58 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-11 20:45:58 [INFO] Executing module: Clear-ChromeCache
+2026-07-11 20:45:58 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-11 20:45:58 [INFO] Executing module: Clear-EdgeCache
+2026-07-11 20:45:58 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-11 20:45:58 [INFO] Executing module: Clear-IISLogs
+2026-07-11 20:45:58 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-11 20:45:58 [INFO] Executing module: Clear-WER
+2026-07-11 20:45:58 [INFO] Module finished: Clear-WER (Completed)
+2026-07-11 20:45:58 [INFO] SMF finished
+2026-07-11 21:14:03 [INFO] ========== SMF START ==========
+2026-07-11 21:14:03 [INFO] SMF started
+2026-07-11 21:14:03 [INFO] Profile: Analyze
+2026-07-11 21:14:03 [INFO] Loading modules
+2026-07-11 21:14:03 [INFO] Registered module: Clear-YandexCache
+2026-07-11 21:14:03 [INFO] Registered module: Clear-WindowsLogs
+2026-07-11 21:14:03 [INFO] Registered module: Clear-IISLogs
+2026-07-11 21:14:03 [INFO] Registered module: Clear-Temp
+2026-07-11 21:14:03 [INFO] Registered module: Clear-EdgeCache
+2026-07-11 21:14:03 [INFO] Registered module: Clear-RecycleBin
+2026-07-11 21:14:03 [INFO] Registered module: Clear-WER
+2026-07-11 21:14:03 [INFO] Registered module: Clear-ChromeCache
+2026-07-11 21:14:03 [INFO] Executing modules
+2026-07-11 21:14:03 [INFO] Executing module: Clear-Temp
+2026-07-11 21:14:03 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-11 21:14:03 [INFO] Executing module: Clear-RecycleBin
+2026-07-11 21:14:03 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-11 21:14:03 [INFO] Executing module: Clear-WindowsLogs
+2026-07-11 21:14:03 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-11 21:14:03 [INFO] Executing module: Clear-YandexCache
+2026-07-11 21:14:03 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-11 21:14:03 [INFO] Executing module: Clear-ChromeCache
+2026-07-11 21:14:03 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-11 21:14:03 [INFO] Executing module: Clear-EdgeCache
+2026-07-11 21:14:03 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-11 21:14:03 [INFO] Executing module: Clear-IISLogs
+2026-07-11 21:14:03 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-11 21:14:03 [INFO] Executing module: Clear-WER
+2026-07-11 21:14:03 [INFO] Module finished: Clear-WER (Completed)
+2026-07-11 21:14:04 [INFO] SMF finished
+2026-07-11 21:48:28 [INFO] ========== SMF START ==========
+2026-07-11 21:48:28 [INFO] SMF started
+2026-07-11 21:48:28 [INFO] Profile: Analyze
+2026-07-11 21:48:28 [INFO] Loading modules
+2026-07-11 21:48:28 [INFO] Registered module: Clear-YandexCache
+2026-07-11 21:48:28 [INFO] Registered module: Clear-WindowsLogs
+2026-07-11 21:48:28 [INFO] Registered module: Clear-IISLogs
+2026-07-11 21:48:28 [INFO] Registered module: Clear-Temp
+2026-07-11 21:48:28 [INFO] Registered module: Clear-EdgeCache
+2026-07-11 21:48:28 [INFO] Registered module: Clear-RecycleBin
+2026-07-11 21:48:28 [INFO] Registered module: Clear-WER
+2026-07-11 21:48:28 [INFO] Registered module: Clear-ChromeCache
+2026-07-11 21:48:28 [INFO] Executing modules
+2026-07-11 21:48:28 [INFO] Executing module: Clear-Temp
+2026-07-11 21:48:28 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-11 21:48:28 [INFO] Executing module: Clear-RecycleBin
+2026-07-11 21:48:28 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-11 21:48:28 [INFO] Executing module: Clear-WindowsLogs
+2026-07-11 21:48:28 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-11 21:48:28 [INFO] Executing module: Clear-YandexCache
+2026-07-11 21:48:28 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-11 21:48:28 [INFO] Executing module: Clear-ChromeCache
+2026-07-11 21:48:28 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-11 21:48:28 [INFO] Executing module: Clear-EdgeCache
+2026-07-11 21:48:28 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-11 21:48:28 [INFO] Executing module: Clear-IISLogs
+2026-07-11 21:48:28 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-11 21:48:28 [INFO] Executing module: Clear-WER
+2026-07-11 21:48:28 [INFO] Module finished: Clear-WER (Completed)
+2026-07-11 21:48:28 [INFO] SMF finished
+2026-07-11 21:49:43 [INFO] ========== SMF START ==========
+2026-07-11 21:49:43 [INFO] SMF started
+2026-07-11 21:49:43 [INFO] Profile: Day
+2026-07-11 21:49:43 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-11 21:49:43 [INFO] Loading modules
+2026-07-11 21:49:43 [INFO] Registered module: Clear-YandexCache
+2026-07-11 21:49:43 [INFO] Registered module: Clear-WindowsLogs
+2026-07-11 21:49:43 [INFO] Registered module: Clear-IISLogs
+2026-07-11 21:49:43 [INFO] Registered module: Clear-Temp
+2026-07-11 21:49:43 [INFO] Registered module: Clear-EdgeCache
+2026-07-11 21:49:43 [INFO] Registered module: Clear-RecycleBin
+2026-07-11 21:49:43 [INFO] Registered module: Clear-WER
+2026-07-11 21:49:43 [INFO] Registered module: Clear-ChromeCache
+2026-07-11 21:49:43 [INFO] Executing modules
+2026-07-11 21:49:43 [INFO] Executing module: Clear-Temp
+2026-07-11 21:49:43 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-11 21:49:43 [INFO] Executing module: Clear-RecycleBin
+2026-07-11 21:49:44 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-11 21:49:44 [INFO] Executing module: Clear-WindowsLogs
+2026-07-11 21:49:44 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-11 21:49:44 [INFO] Executing module: Clear-YandexCache
+2026-07-11 21:49:44 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-11 21:49:44 [INFO] Executing module: Clear-ChromeCache
+2026-07-11 21:49:44 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-11 21:49:44 [INFO] Executing module: Clear-EdgeCache
+2026-07-11 21:49:44 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-11 21:49:44 [INFO] Executing module: Clear-IISLogs
+2026-07-11 21:49:44 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-11 21:49:44 [INFO] Executing module: Clear-WER
+2026-07-11 21:49:44 [INFO] Module finished: Clear-WER (Completed)
+2026-07-11 21:49:44 [INFO] SMF finished
+2026-07-12 09:28:31 [INFO] ========== SMF START ==========
+2026-07-12 09:28:31 [INFO] SMF started
+2026-07-12 09:28:31 [INFO] Profile: Day
+2026-07-12 09:28:31 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 09:28:31 [INFO] Loading modules
+2026-07-12 09:28:31 [INFO] Registered module: Clear-YandexCache
+2026-07-12 09:28:31 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 09:28:31 [INFO] Registered module: Clear-IISLogs
+2026-07-12 09:28:31 [INFO] Registered module: Clear-Temp
+2026-07-12 09:28:31 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 09:28:31 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 09:28:31 [INFO] Registered module: Clear-WER
+2026-07-12 09:28:31 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 09:28:31 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 09:28:31 [INFO] Executing modules
+2026-07-12 09:28:31 [INFO] Executing module: Clear-Temp
+2026-07-12 09:28:31 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 09:28:31 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 09:28:31 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 09:28:31 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 09:28:32 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 09:28:32 [INFO] Executing module: Clear-YandexCache
+2026-07-12 09:28:32 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 09:28:32 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 09:28:32 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 09:28:32 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 09:28:32 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 09:28:32 [INFO] Executing module: Clear-IISLogs
+2026-07-12 09:28:32 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 09:28:32 [INFO] Executing module: Clear-WER
+2026-07-12 09:28:32 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 09:28:32 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 09:28:32 [INFO] Module finished: Clear-UserProfiles (Failed)
+2026-07-12 09:28:32 [INFO] SMF finished
+2026-07-12 09:29:38 [INFO] ========== SMF START ==========
+2026-07-12 09:29:38 [INFO] SMF started
+2026-07-12 09:29:38 [INFO] Profile: Day
+2026-07-12 09:29:38 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 09:29:38 [INFO] Loading modules
+2026-07-12 09:29:38 [INFO] Registered module: Clear-YandexCache
+2026-07-12 09:29:38 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 09:29:38 [INFO] Registered module: Clear-IISLogs
+2026-07-12 09:29:38 [INFO] Registered module: Clear-Temp
+2026-07-12 09:29:38 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 09:29:38 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 09:29:38 [INFO] Registered module: Clear-WER
+2026-07-12 09:29:38 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 09:29:38 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 09:29:38 [INFO] Executing modules
+2026-07-12 09:29:38 [INFO] Executing module: Clear-Temp
+2026-07-12 09:29:38 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 09:29:38 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 09:29:38 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 09:29:38 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 09:29:39 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 09:29:39 [INFO] Executing module: Clear-YandexCache
+2026-07-12 09:29:39 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 09:29:39 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 09:29:39 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 09:29:39 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 09:29:39 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 09:29:39 [INFO] Executing module: Clear-IISLogs
+2026-07-12 09:29:39 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 09:29:39 [INFO] Executing module: Clear-WER
+2026-07-12 09:29:39 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 09:29:39 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 09:29:43 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 09:29:43 [INFO] SMF finished
+2026-07-12 09:46:49 [INFO] ========== SMF START ==========
+2026-07-12 09:46:49 [INFO] SMF started
+2026-07-12 09:46:49 [INFO] Profile: Day
+2026-07-12 09:46:49 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 09:46:50 [INFO] Loading modules
+2026-07-12 09:46:50 [INFO] Registered module: Clear-YandexCache
+2026-07-12 09:46:50 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 09:46:50 [INFO] Registered module: Clear-IISLogs
+2026-07-12 09:46:50 [INFO] Registered module: Clear-Temp
+2026-07-12 09:46:50 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 09:46:50 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 09:46:50 [INFO] Registered module: Clear-WER
+2026-07-12 09:46:50 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 09:46:50 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 09:46:50 [INFO] Executing modules
+2026-07-12 09:46:50 [INFO] Executing module: Clear-Temp
+2026-07-12 09:46:50 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 09:46:50 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 09:46:50 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 09:46:50 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 09:46:51 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 09:46:51 [INFO] Executing module: Clear-YandexCache
+2026-07-12 09:46:51 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 09:46:51 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 09:46:51 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 09:46:51 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 09:46:51 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 09:46:51 [INFO] Executing module: Clear-IISLogs
+2026-07-12 09:46:51 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 09:46:51 [INFO] Executing module: Clear-WER
+2026-07-12 09:46:51 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 09:46:51 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 09:46:55 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 09:46:55 [INFO] SMF finished
+2026-07-12 10:24:33 [INFO] ========== SMF START ==========
+2026-07-12 10:24:33 [INFO] SMF started
+2026-07-12 10:24:33 [INFO] Profile: Day
+2026-07-12 10:24:33 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 10:24:33 [INFO] Loading modules
+2026-07-12 10:24:33 [INFO] Registered module: Clear-YandexCache
+2026-07-12 10:24:33 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 10:24:33 [INFO] Registered module: Clear-IISLogs
+2026-07-12 10:24:33 [INFO] Registered module: Clear-Temp
+2026-07-12 10:24:33 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 10:24:34 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 10:24:34 [INFO] Registered module: Clear-WER
+2026-07-12 10:24:34 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 10:24:34 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 10:24:34 [INFO] Executing modules
+2026-07-12 10:24:34 [INFO] Executing module: Clear-Temp
+2026-07-12 10:24:34 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 10:24:34 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 10:24:34 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 10:24:34 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 10:24:34 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 10:24:34 [INFO] Executing module: Clear-YandexCache
+2026-07-12 10:24:34 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 10:24:34 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 10:24:34 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 10:24:34 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 10:24:34 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 10:24:34 [INFO] Executing module: Clear-IISLogs
+2026-07-12 10:24:34 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 10:24:34 [INFO] Executing module: Clear-WER
+2026-07-12 10:24:34 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 10:24:34 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 10:24:38 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 10:24:38 [INFO] SMF finished
+2026-07-12 10:42:13 [INFO] ========== SMF START ==========
+2026-07-12 10:42:13 [INFO] SMF started
+2026-07-12 10:42:13 [INFO] Profile: Analyze
+2026-07-12 10:42:13 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 10:42:13 [INFO] Loading modules
+2026-07-12 10:42:13 [INFO] Registered module: Clear-YandexCache
+2026-07-12 10:42:13 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 10:42:14 [INFO] Registered module: Clear-IISLogs
+2026-07-12 10:42:14 [INFO] Registered module: Clear-Temp
+2026-07-12 10:42:14 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 10:42:14 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 10:42:14 [INFO] Registered module: Clear-WER
+2026-07-12 10:42:14 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 10:42:14 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 10:42:14 [INFO] Executing modules
+2026-07-12 10:42:14 [INFO] Executing module: Clear-Temp
+2026-07-12 10:42:14 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 10:42:14 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 10:42:14 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 10:42:14 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 10:42:14 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 10:42:14 [INFO] Executing module: Clear-YandexCache
+2026-07-12 10:42:14 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 10:42:14 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 10:42:14 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 10:42:14 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 10:42:14 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 10:42:14 [INFO] Executing module: Clear-IISLogs
+2026-07-12 10:42:14 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 10:42:14 [INFO] Executing module: Clear-WER
+2026-07-12 10:42:14 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 10:42:14 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 10:42:18 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 10:42:18 [INFO] SMF finished
+2026-07-12 10:45:12 [INFO] ========== SMF START ==========
+2026-07-12 10:45:12 [INFO] SMF started
+2026-07-12 10:45:12 [INFO] Profile: Analyze
+2026-07-12 10:45:12 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 10:45:12 [INFO] Loading modules
+2026-07-12 10:45:12 [INFO] Registered module: Clear-YandexCache
+2026-07-12 10:45:12 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 10:45:12 [INFO] Registered module: Clear-IISLogs
+2026-07-12 10:45:12 [INFO] Registered module: Clear-Temp
+2026-07-12 10:45:12 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 10:45:12 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 10:45:12 [INFO] Registered module: Clear-WER
+2026-07-12 10:45:12 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 10:45:12 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 10:45:12 [INFO] Executing modules
+2026-07-12 10:45:12 [INFO] Executing module: Clear-Temp
+2026-07-12 10:45:12 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 10:45:12 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 10:45:12 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 10:45:12 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 10:45:12 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 10:45:12 [INFO] Executing module: Clear-YandexCache
+2026-07-12 10:45:12 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 10:45:12 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 10:45:12 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 10:45:12 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 10:45:12 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 10:45:12 [INFO] Executing module: Clear-IISLogs
+2026-07-12 10:45:12 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 10:45:12 [INFO] Executing module: Clear-WER
+2026-07-12 10:45:12 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 10:45:12 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 10:45:16 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 10:45:16 [INFO] SMF finished
+2026-07-12 10:46:50 [INFO] ========== SMF START ==========
+2026-07-12 10:46:50 [INFO] SMF started
+2026-07-12 10:46:50 [INFO] Profile: Analyze
+2026-07-12 10:46:50 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 10:46:50 [INFO] Loading modules
+2026-07-12 10:46:50 [INFO] Registered module: Clear-YandexCache
+2026-07-12 10:46:50 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 10:46:50 [INFO] Registered module: Clear-IISLogs
+2026-07-12 10:46:50 [INFO] Registered module: Clear-Temp
+2026-07-12 10:46:50 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 10:46:50 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 10:46:50 [INFO] Registered module: Clear-WER
+2026-07-12 10:46:50 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 10:46:50 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 10:46:50 [INFO] Executing modules
+2026-07-12 10:46:50 [INFO] Executing module: Clear-Temp
+2026-07-12 10:46:50 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 10:46:50 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 10:46:50 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 10:46:50 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 10:46:51 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 10:46:51 [INFO] Executing module: Clear-YandexCache
+2026-07-12 10:46:51 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 10:46:51 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 10:46:51 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 10:46:51 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 10:46:51 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 10:46:51 [INFO] Executing module: Clear-IISLogs
+2026-07-12 10:46:51 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 10:46:51 [INFO] Executing module: Clear-WER
+2026-07-12 10:46:51 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 10:46:51 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 10:46:54 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 10:46:54 [INFO] SMF finished
+2026-07-12 10:48:29 [INFO] ========== SMF START ==========
+2026-07-12 10:48:29 [INFO] SMF started
+2026-07-12 10:48:29 [INFO] Profile: Analyze
+2026-07-12 10:48:29 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 10:48:29 [INFO] Loading modules
+2026-07-12 10:48:29 [INFO] Registered module: Clear-YandexCache
+2026-07-12 10:48:29 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 10:48:29 [INFO] Registered module: Clear-IISLogs
+2026-07-12 10:48:29 [INFO] Registered module: Clear-Temp
+2026-07-12 10:48:29 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 10:48:29 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 10:48:29 [INFO] Registered module: Clear-WER
+2026-07-12 10:48:29 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 10:48:29 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 10:48:29 [INFO] Executing modules
+2026-07-12 10:48:29 [INFO] Executing module: Clear-Temp
+2026-07-12 10:48:29 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 10:48:29 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 10:48:30 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 10:48:30 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 10:48:30 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 10:48:30 [INFO] Executing module: Clear-YandexCache
+2026-07-12 10:48:30 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 10:48:30 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 10:48:30 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 10:48:30 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 10:48:30 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 10:48:30 [INFO] Executing module: Clear-IISLogs
+2026-07-12 10:48:30 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 10:48:30 [INFO] Executing module: Clear-WER
+2026-07-12 10:48:30 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 10:48:30 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 10:48:33 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 10:48:34 [INFO] SMF finished
+2026-07-12 10:51:59 [INFO] ========== SMF START ==========
+2026-07-12 10:51:59 [INFO] SMF started
+2026-07-12 10:51:59 [INFO] Profile: Analyze
+2026-07-12 10:51:59 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 10:51:59 [INFO] Loading modules
+2026-07-12 10:51:59 [INFO] Registered module: Clear-YandexCache
+2026-07-12 10:51:59 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 10:51:59 [INFO] Registered module: Clear-IISLogs
+2026-07-12 10:51:59 [INFO] Registered module: Clear-Temp
+2026-07-12 10:51:59 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 10:51:59 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 10:51:59 [INFO] Registered module: Clear-WER
+2026-07-12 10:51:59 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 10:51:59 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 10:51:59 [INFO] Executing modules
+2026-07-12 10:51:59 [INFO] Executing module: Clear-Temp
+2026-07-12 10:51:59 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 10:51:59 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 10:51:59 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 10:51:59 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 10:52:00 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 10:52:00 [INFO] Executing module: Clear-YandexCache
+2026-07-12 10:52:00 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 10:52:00 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 10:52:00 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 10:52:00 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 10:52:00 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 10:52:00 [INFO] Executing module: Clear-IISLogs
+2026-07-12 10:52:00 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 10:52:00 [INFO] Executing module: Clear-WER
+2026-07-12 10:52:00 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 10:52:00 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 10:52:03 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 10:52:03 [INFO] SMF finished
+2026-07-12 10:56:16 [INFO] ========== SMF START ==========
+2026-07-12 10:56:16 [INFO] SMF started
+2026-07-12 10:56:16 [INFO] Profile: Analyze
+2026-07-12 10:56:16 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 10:56:16 [INFO] Loading modules
+2026-07-12 10:56:16 [INFO] Registered module: Clear-YandexCache
+2026-07-12 10:56:16 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 10:56:16 [INFO] Registered module: Clear-IISLogs
+2026-07-12 10:56:16 [INFO] Registered module: Clear-Temp
+2026-07-12 10:56:16 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 10:56:16 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 10:56:16 [INFO] Registered module: Clear-WER
+2026-07-12 10:56:16 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 10:56:16 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 10:56:16 [INFO] Executing modules
+2026-07-12 10:56:16 [INFO] Executing module: Clear-Temp
+2026-07-12 10:56:16 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 10:56:16 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 10:56:16 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 10:56:16 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 10:56:17 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 10:56:17 [INFO] Executing module: Clear-YandexCache
+2026-07-12 10:56:17 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 10:56:17 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 10:56:17 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 10:56:17 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 10:56:17 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 10:56:17 [INFO] Executing module: Clear-IISLogs
+2026-07-12 10:56:17 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 10:56:17 [INFO] Executing module: Clear-WER
+2026-07-12 10:56:17 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 10:56:17 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 10:56:20 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 10:56:20 [INFO] SMF finished
+2026-07-12 10:57:59 [INFO] ========== SMF START ==========
+2026-07-12 10:57:59 [INFO] SMF started
+2026-07-12 10:57:59 [INFO] Profile: Analyze
+2026-07-12 10:57:59 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 10:57:59 [INFO] Loading modules
+2026-07-12 10:57:59 [INFO] Registered module: Clear-YandexCache
+2026-07-12 10:57:59 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 10:57:59 [INFO] Registered module: Clear-IISLogs
+2026-07-12 10:57:59 [INFO] Registered module: Clear-Temp
+2026-07-12 10:57:59 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 10:57:59 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 10:57:59 [INFO] Registered module: Clear-WER
+2026-07-12 10:57:59 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 10:57:59 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 10:57:59 [INFO] Executing modules
+2026-07-12 10:57:59 [INFO] Executing module: Clear-Temp
+2026-07-12 10:57:59 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 10:57:59 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 10:57:59 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 10:57:59 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 10:57:59 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 10:57:59 [INFO] Executing module: Clear-YandexCache
+2026-07-12 10:57:59 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 10:57:59 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 10:57:59 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 10:57:59 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 10:57:59 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 10:57:59 [INFO] Executing module: Clear-IISLogs
+2026-07-12 10:57:59 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 10:57:59 [INFO] Executing module: Clear-WER
+2026-07-12 10:57:59 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 10:57:59 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 10:58:03 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 10:58:03 [INFO] SMF finished
+2026-07-12 11:00:02 [INFO] ========== SMF START ==========
+2026-07-12 11:00:02 [INFO] SMF started
+2026-07-12 11:00:02 [INFO] Profile: Analyze
+2026-07-12 11:00:02 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 11:00:02 [INFO] Loading modules
+2026-07-12 11:00:02 [INFO] Registered module: Clear-YandexCache
+2026-07-12 11:00:02 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 11:00:02 [INFO] Registered module: Clear-IISLogs
+2026-07-12 11:00:02 [INFO] Registered module: Clear-Temp
+2026-07-12 11:00:02 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 11:00:02 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 11:00:02 [INFO] Registered module: Clear-WER
+2026-07-12 11:00:02 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 11:00:02 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 11:00:02 [INFO] Executing modules
+2026-07-12 11:00:02 [INFO] Executing module: Clear-Temp
+2026-07-12 11:00:02 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 11:00:02 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 11:00:02 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 11:00:02 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 11:00:03 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 11:00:03 [INFO] Executing module: Clear-YandexCache
+2026-07-12 11:00:03 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 11:00:03 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 11:00:03 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 11:00:03 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 11:00:03 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 11:00:03 [INFO] Executing module: Clear-IISLogs
+2026-07-12 11:00:03 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 11:00:03 [INFO] Executing module: Clear-WER
+2026-07-12 11:00:03 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 11:00:03 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 11:00:06 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 11:00:06 [INFO] SMF finished
+2026-07-12 11:01:16 [INFO] ========== SMF START ==========
+2026-07-12 11:01:16 [INFO] SMF started
+2026-07-12 11:01:16 [INFO] Profile: Analyze
+2026-07-12 11:01:16 [INFO] Loading modules
+2026-07-12 11:01:16 [INFO] Registered module: Clear-YandexCache
+2026-07-12 11:01:16 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 11:01:17 [INFO] Registered module: Clear-IISLogs
+2026-07-12 11:01:17 [INFO] Registered module: Clear-Temp
+2026-07-12 11:01:17 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 11:01:17 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 11:01:17 [INFO] Registered module: Clear-WER
+2026-07-12 11:01:17 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 11:01:17 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 11:01:17 [INFO] Executing modules
+2026-07-12 11:01:17 [INFO] Executing module: Clear-Temp
+2026-07-12 11:01:17 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 11:01:17 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 11:01:17 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 11:01:17 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 11:01:17 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 11:01:17 [INFO] Executing module: Clear-YandexCache
+2026-07-12 11:01:17 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 11:01:17 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 11:01:17 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 11:01:17 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 11:01:17 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 11:01:17 [INFO] Executing module: Clear-IISLogs
+2026-07-12 11:01:17 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 11:01:17 [INFO] Executing module: Clear-WER
+2026-07-12 11:01:17 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 11:01:17 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 11:01:21 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 11:01:21 [INFO] SMF finished
+2026-07-12 11:05:01 [INFO] ========== SMF START ==========
+2026-07-12 11:05:01 [INFO] SMF started
+2026-07-12 11:05:01 [INFO] Profile: Analyze
+2026-07-12 11:05:01 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 11:05:01 [INFO] Loading modules
+2026-07-12 11:05:01 [INFO] Registered module: Clear-YandexCache
+2026-07-12 11:05:01 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 11:05:01 [INFO] Registered module: Clear-IISLogs
+2026-07-12 11:05:01 [INFO] Registered module: Clear-Temp
+2026-07-12 11:05:01 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 11:05:01 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 11:05:01 [INFO] Registered module: Clear-WER
+2026-07-12 11:05:01 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 11:05:01 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 11:05:01 [INFO] Executing modules
+2026-07-12 11:05:01 [INFO] Executing module: Clear-Temp
+2026-07-12 11:05:01 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 11:05:01 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 11:05:01 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 11:05:01 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 11:05:02 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 11:05:02 [INFO] Executing module: Clear-YandexCache
+2026-07-12 11:05:02 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 11:05:02 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 11:05:02 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 11:05:02 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 11:05:02 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 11:05:02 [INFO] Executing module: Clear-IISLogs
+2026-07-12 11:05:02 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 11:05:02 [INFO] Executing module: Clear-WER
+2026-07-12 11:05:02 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 11:05:02 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 11:05:05 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 11:05:05 [INFO] SMF finished
+2026-07-12 11:07:35 [INFO] ========== SMF START ==========
+2026-07-12 11:07:35 [INFO] SMF started
+2026-07-12 11:07:35 [INFO] Profile: Analyze
+2026-07-12 11:07:35 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 11:07:35 [INFO] Loading modules
+2026-07-12 11:07:35 [INFO] Registered module: Clear-YandexCache
+2026-07-12 11:07:35 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 11:07:35 [INFO] Registered module: Clear-IISLogs
+2026-07-12 11:07:35 [INFO] Registered module: Clear-Temp
+2026-07-12 11:07:35 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 11:07:35 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 11:07:35 [INFO] Registered module: Clear-WER
+2026-07-12 11:07:35 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 11:07:35 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 11:07:35 [INFO] Executing modules
+2026-07-12 11:07:35 [INFO] Executing module: Clear-Temp
+2026-07-12 11:07:35 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 11:07:35 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 11:07:36 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 11:07:36 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 11:07:36 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 11:07:36 [INFO] Executing module: Clear-YandexCache
+2026-07-12 11:07:36 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 11:07:36 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 11:07:36 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 11:07:36 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 11:07:36 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 11:07:36 [INFO] Executing module: Clear-IISLogs
+2026-07-12 11:07:36 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 11:07:36 [INFO] Executing module: Clear-WER
+2026-07-12 11:07:36 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 11:07:36 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 11:07:36 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 11:07:36 [INFO] SMF finished
+2026-07-12 13:12:45 [INFO] ========== SMF START ==========
+2026-07-12 13:12:45 [INFO] SMF started
+2026-07-12 13:12:45 [INFO] Profile: Analyze
+2026-07-12 13:12:45 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 13:12:45 [INFO] Loading modules
+2026-07-12 13:12:45 [INFO] Registered module: Clear-YandexCache
+2026-07-12 13:12:45 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 13:12:45 [INFO] Registered module: Clear-IISLogs
+2026-07-12 13:12:45 [INFO] Registered module: Clear-Temp
+2026-07-12 13:12:45 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 13:12:45 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 13:12:45 [INFO] Registered module: Clear-WER
+2026-07-12 13:12:45 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 13:12:45 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 13:12:45 [INFO] Executing modules
+2026-07-12 13:12:45 [INFO] Executing module: Clear-Temp
+2026-07-12 13:12:45 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 13:12:45 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 13:12:45 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 13:12:45 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 13:12:46 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 13:12:46 [INFO] Executing module: Clear-YandexCache
+2026-07-12 13:12:46 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 13:12:46 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 13:12:46 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 13:12:46 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 13:12:46 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 13:12:46 [INFO] Executing module: Clear-IISLogs
+2026-07-12 13:12:46 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 13:12:46 [INFO] Executing module: Clear-WER
+2026-07-12 13:12:46 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 13:12:46 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 13:12:49 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 13:12:49 [INFO] SMF finished
+2026-07-12 13:15:33 [INFO] ========== SMF START ==========
+2026-07-12 13:15:33 [INFO] SMF started
+2026-07-12 13:15:33 [INFO] Profile: Analyze
+2026-07-12 13:15:33 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 13:15:34 [INFO] Loading modules
+2026-07-12 13:15:34 [INFO] Registered module: Clear-YandexCache
+2026-07-12 13:15:34 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 13:15:34 [INFO] Registered module: Clear-IISLogs
+2026-07-12 13:15:34 [INFO] Registered module: Clear-Temp
+2026-07-12 13:15:34 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 13:15:34 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 13:15:34 [INFO] Registered module: Clear-WER
+2026-07-12 13:15:34 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 13:15:34 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 13:15:34 [INFO] Executing modules
+2026-07-12 13:15:34 [INFO] Executing module: Clear-Temp
+2026-07-12 13:15:34 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 13:15:34 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 13:15:34 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 13:15:34 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 13:15:34 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 13:15:34 [INFO] Executing module: Clear-YandexCache
+2026-07-12 13:15:34 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 13:15:34 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 13:15:34 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 13:15:34 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 13:15:34 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 13:15:34 [INFO] Executing module: Clear-IISLogs
+2026-07-12 13:15:34 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 13:15:34 [INFO] Executing module: Clear-WER
+2026-07-12 13:15:34 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 13:15:34 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 13:15:38 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 13:15:38 [INFO] SMF finished
+2026-07-12 13:19:47 [INFO] ========== SMF START ==========
+2026-07-12 13:19:47 [INFO] SMF started
+2026-07-12 13:19:47 [INFO] Profile: Analyze
+2026-07-12 13:19:47 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 13:19:47 [INFO] Loading modules
+2026-07-12 13:19:47 [INFO] Registered module: Clear-YandexCache
+2026-07-12 13:19:47 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 13:19:47 [INFO] Registered module: Clear-IISLogs
+2026-07-12 13:19:47 [INFO] Registered module: Clear-Temp
+2026-07-12 13:19:47 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 13:19:47 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 13:19:47 [INFO] Registered module: Clear-WER
+2026-07-12 13:19:47 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 13:19:47 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 13:19:47 [INFO] Executing modules
+2026-07-12 13:19:47 [INFO] Executing module: Clear-Temp
+2026-07-12 13:19:47 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 13:19:47 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 13:19:47 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 13:19:47 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 13:19:48 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 13:19:48 [INFO] Executing module: Clear-YandexCache
+2026-07-12 13:19:48 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 13:19:48 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 13:19:48 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 13:19:48 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 13:19:48 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 13:19:48 [INFO] Executing module: Clear-IISLogs
+2026-07-12 13:19:48 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 13:19:48 [INFO] Executing module: Clear-WER
+2026-07-12 13:19:48 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 13:19:48 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 13:19:51 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 13:19:52 [INFO] SMF finished
+2026-07-12 13:23:45 [INFO] ========== SMF START ==========
+2026-07-12 13:23:45 [INFO] SMF started
+2026-07-12 13:23:45 [INFO] Profile: Analyze
+2026-07-12 13:23:45 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 13:23:45 [INFO] Loading modules
+2026-07-12 13:23:45 [INFO] Registered module: Clear-YandexCache
+2026-07-12 13:23:45 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 13:23:45 [INFO] Registered module: Clear-IISLogs
+2026-07-12 13:23:45 [INFO] Registered module: Clear-Temp
+2026-07-12 13:23:45 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 13:23:45 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 13:23:45 [INFO] Registered module: Clear-WER
+2026-07-12 13:23:45 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 13:23:45 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 13:23:45 [INFO] Executing modules
+2026-07-12 13:23:45 [INFO] Executing module: Clear-Temp
+2026-07-12 13:23:45 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 13:23:45 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 13:23:45 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 13:23:45 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 13:23:45 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 13:23:45 [INFO] Executing module: Clear-YandexCache
+2026-07-12 13:23:45 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 13:23:45 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 13:23:45 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 13:23:45 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 13:23:45 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 13:23:45 [INFO] Executing module: Clear-IISLogs
+2026-07-12 13:23:45 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 13:23:45 [INFO] Executing module: Clear-WER
+2026-07-12 13:23:45 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 13:23:45 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 13:23:49 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 13:23:49 [INFO] SMF finished
+2026-07-12 13:26:06 [INFO] ========== SMF START ==========
+2026-07-12 13:26:06 [INFO] SMF started
+2026-07-12 13:26:06 [INFO] Profile: Analyze
+2026-07-12 13:26:06 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 13:26:06 [INFO] Loading modules
+2026-07-12 13:26:06 [INFO] Registered module: Clear-YandexCache
+2026-07-12 13:26:06 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 13:26:06 [INFO] Registered module: Clear-IISLogs
+2026-07-12 13:26:06 [INFO] Registered module: Clear-Temp
+2026-07-12 13:26:06 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 13:26:06 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 13:26:06 [INFO] Registered module: Clear-WER
+2026-07-12 13:26:06 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 13:26:06 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 13:26:06 [INFO] Executing modules
+2026-07-12 13:26:06 [INFO] Executing module: Clear-Temp
+2026-07-12 13:26:06 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 13:26:06 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 13:26:07 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 13:26:07 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 13:26:07 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 13:26:07 [INFO] Executing module: Clear-YandexCache
+2026-07-12 13:26:07 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 13:26:07 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 13:26:07 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 13:26:07 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 13:26:07 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 13:26:07 [INFO] Executing module: Clear-IISLogs
+2026-07-12 13:26:07 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 13:26:07 [INFO] Executing module: Clear-WER
+2026-07-12 13:26:07 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 13:26:07 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 13:26:10 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 13:26:10 [INFO] SMF finished
+2026-07-12 13:26:41 [INFO] ========== SMF START ==========
+2026-07-12 13:26:41 [INFO] SMF started
+2026-07-12 13:26:41 [INFO] Profile: Analyze
+2026-07-12 13:26:41 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 13:26:41 [INFO] Loading modules
+2026-07-12 13:26:41 [INFO] Registered module: Clear-YandexCache
+2026-07-12 13:26:41 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 13:26:41 [INFO] Registered module: Clear-IISLogs
+2026-07-12 13:26:41 [INFO] Registered module: Clear-Temp
+2026-07-12 13:26:41 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 13:26:41 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 13:26:41 [INFO] Registered module: Clear-WER
+2026-07-12 13:26:41 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 13:26:41 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 13:26:41 [INFO] Executing modules
+2026-07-12 13:26:41 [INFO] Executing module: Clear-Temp
+2026-07-12 13:26:41 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 13:26:41 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 13:26:42 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 13:26:42 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 13:26:42 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 13:26:42 [INFO] Executing module: Clear-YandexCache
+2026-07-12 13:26:42 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 13:26:42 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 13:26:42 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 13:26:42 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 13:26:42 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 13:26:42 [INFO] Executing module: Clear-IISLogs
+2026-07-12 13:26:42 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 13:26:42 [INFO] Executing module: Clear-WER
+2026-07-12 13:26:42 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 13:26:42 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 13:26:45 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 13:26:45 [INFO] SMF finished
+2026-07-12 13:28:58 [INFO] ========== SMF START ==========
+2026-07-12 13:28:58 [INFO] SMF started
+2026-07-12 13:28:58 [INFO] Profile: Analyze
+2026-07-12 13:28:58 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 13:28:58 [INFO] Loading modules
+2026-07-12 13:28:58 [INFO] Registered module: Clear-YandexCache
+2026-07-12 13:28:58 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 13:28:58 [INFO] Registered module: Clear-IISLogs
+2026-07-12 13:28:58 [INFO] Registered module: Clear-Temp
+2026-07-12 13:28:58 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 13:28:58 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 13:28:58 [INFO] Registered module: Clear-WER
+2026-07-12 13:28:58 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 13:28:58 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 13:28:58 [INFO] Executing modules
+2026-07-12 13:28:58 [INFO] Executing module: Clear-Temp
+2026-07-12 13:28:58 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 13:28:58 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 13:28:59 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 13:28:59 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 13:28:59 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 13:28:59 [INFO] Executing module: Clear-YandexCache
+2026-07-12 13:28:59 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 13:28:59 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 13:28:59 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 13:28:59 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 13:28:59 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 13:28:59 [INFO] Executing module: Clear-IISLogs
+2026-07-12 13:28:59 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 13:28:59 [INFO] Executing module: Clear-WER
+2026-07-12 13:28:59 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 13:28:59 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 13:29:02 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 13:29:02 [INFO] SMF finished
+2026-07-12 13:31:24 [INFO] ========== SMF START ==========
+2026-07-12 13:31:24 [INFO] SMF started
+2026-07-12 13:31:24 [INFO] Profile: Analyze
+2026-07-12 13:31:24 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 13:31:24 [INFO] Loading modules
+2026-07-12 13:31:24 [INFO] Registered module: Clear-YandexCache
+2026-07-12 13:31:24 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 13:31:24 [INFO] Registered module: Clear-IISLogs
+2026-07-12 13:31:24 [INFO] Registered module: Clear-Temp
+2026-07-12 13:31:24 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 13:31:24 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 13:31:24 [INFO] Registered module: Clear-WER
+2026-07-12 13:31:24 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 13:31:24 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 13:31:24 [INFO] Executing modules
+2026-07-12 13:31:24 [INFO] Executing module: Clear-Temp
+2026-07-12 13:31:24 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 13:31:24 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 13:31:24 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 13:31:24 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 13:31:25 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 13:31:25 [INFO] Executing module: Clear-YandexCache
+2026-07-12 13:31:25 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 13:31:25 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 13:31:25 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 13:31:25 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 13:31:25 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 13:31:25 [INFO] Executing module: Clear-IISLogs
+2026-07-12 13:31:25 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 13:31:25 [INFO] Executing module: Clear-WER
+2026-07-12 13:31:25 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 13:31:25 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 13:31:28 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 13:31:28 [INFO] SMF finished
+2026-07-12 13:45:06 [INFO] ========== SMF START ==========
+2026-07-12 13:45:06 [INFO] SMF started
+2026-07-12 13:45:06 [INFO] Profile: Analyze
+2026-07-12 13:45:06 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 13:45:06 [INFO] Loading modules
+2026-07-12 13:45:06 [INFO] Registered module: Clear-YandexCache
+2026-07-12 13:45:06 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 13:45:06 [INFO] Registered module: Clear-IISLogs
+2026-07-12 13:45:06 [INFO] Registered module: Clear-Temp
+2026-07-12 13:45:06 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 13:45:06 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 13:45:06 [INFO] Registered module: Clear-WER
+2026-07-12 13:45:06 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 13:45:06 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 13:45:06 [INFO] Executing modules
+2026-07-12 13:45:06 [INFO] Executing module: Clear-Temp
+2026-07-12 13:45:06 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 13:45:06 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 13:45:06 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 13:45:06 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 13:45:07 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 13:45:07 [INFO] Executing module: Clear-YandexCache
+2026-07-12 13:45:07 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 13:45:07 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 13:45:07 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 13:45:07 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 13:45:07 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 13:45:07 [INFO] Executing module: Clear-IISLogs
+2026-07-12 13:45:07 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 13:45:07 [INFO] Executing module: Clear-WER
+2026-07-12 13:45:07 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 13:45:07 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 13:45:10 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 13:45:10 [INFO] SMF finished
+2026-07-12 14:01:49 [INFO] ========== SMF START ==========
+2026-07-12 14:01:49 [INFO] SMF started
+2026-07-12 14:01:49 [INFO] Profile: Analyze
+2026-07-12 14:01:49 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 14:01:49 [INFO] Loading modules
+2026-07-12 14:01:49 [INFO] Registered module: Clear-YandexCache
+2026-07-12 14:01:49 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 14:01:49 [INFO] Registered module: Clear-IISLogs
+2026-07-12 14:01:49 [INFO] Registered module: Clear-Temp
+2026-07-12 14:01:49 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 14:01:49 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 14:01:49 [INFO] Registered module: Clear-WER
+2026-07-12 14:01:49 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 14:01:49 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 14:01:49 [INFO] Executing modules
+2026-07-12 14:01:49 [INFO] Executing module: Clear-Temp
+2026-07-12 14:01:49 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 14:01:49 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 14:01:49 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 14:01:49 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 14:01:49 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 14:01:49 [INFO] Executing module: Clear-YandexCache
+2026-07-12 14:01:49 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 14:01:49 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 14:01:49 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 14:01:49 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 14:01:49 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 14:01:49 [INFO] Executing module: Clear-IISLogs
+2026-07-12 14:01:49 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 14:01:49 [INFO] Executing module: Clear-WER
+2026-07-12 14:01:50 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 14:01:50 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 14:01:53 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 14:01:53 [INFO] SMF finished
+2026-07-12 14:26:42 [INFO] ========== SMF START ==========
+2026-07-12 14:26:42 [INFO] SMF started
+2026-07-12 14:26:42 [INFO] Profile: Analyze
+2026-07-12 14:26:42 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 14:26:42 [INFO] Loading modules
+2026-07-12 14:26:42 [INFO] Registered module: Clear-YandexCache
+2026-07-12 14:26:42 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 14:26:42 [INFO] Registered module: Clear-IISLogs
+2026-07-12 14:26:42 [INFO] Registered module: Clear-Temp
+2026-07-12 14:26:42 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 14:26:42 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 14:26:42 [INFO] Registered module: Clear-WER
+2026-07-12 14:26:42 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 14:26:42 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 14:26:42 [INFO] Executing modules
+2026-07-12 14:26:42 [INFO] Executing module: Clear-Temp
+2026-07-12 14:26:42 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 14:26:42 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 14:26:42 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 14:26:42 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 14:26:43 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 14:26:43 [INFO] Executing module: Clear-YandexCache
+2026-07-12 14:26:43 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 14:26:43 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 14:26:43 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 14:26:43 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 14:26:43 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 14:26:43 [INFO] Executing module: Clear-IISLogs
+2026-07-12 14:26:43 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 14:26:43 [INFO] Executing module: Clear-WER
+2026-07-12 14:26:43 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 14:26:43 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 14:26:46 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 14:26:46 [INFO] SMF finished
+2026-07-12 14:38:35 [INFO] ========== SMF START ==========
+2026-07-12 14:38:35 [INFO] SMF started
+2026-07-12 14:38:35 [INFO] Profile: Analyze
+2026-07-12 14:38:35 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 14:38:35 [INFO] Loading modules
+2026-07-12 14:38:35 [INFO] Registered module: Clear-YandexCache
+2026-07-12 14:38:35 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 14:38:35 [INFO] Registered module: Clear-IISLogs
+2026-07-12 14:38:35 [INFO] Registered module: Clear-Temp
+2026-07-12 14:38:35 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 14:38:35 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 14:38:35 [INFO] Registered module: Clear-WER
+2026-07-12 14:38:35 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 14:38:35 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 14:38:35 [INFO] Executing modules
+2026-07-12 14:38:35 [INFO] Executing module: Clear-Temp
+2026-07-12 14:38:35 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 14:38:35 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 14:38:35 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 14:38:35 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 14:38:36 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 14:38:36 [INFO] Executing module: Clear-YandexCache
+2026-07-12 14:38:36 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 14:38:36 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 14:38:36 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 14:38:36 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 14:38:36 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 14:38:36 [INFO] Executing module: Clear-IISLogs
+2026-07-12 14:38:36 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 14:38:36 [INFO] Executing module: Clear-WER
+2026-07-12 14:38:36 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 14:38:36 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 14:38:39 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 14:38:39 [INFO] SMF finished
+2026-07-12 14:42:19 [INFO] ========== SMF START ==========
+2026-07-12 14:42:19 [INFO] SMF started
+2026-07-12 14:42:19 [INFO] Profile: Analyze
+2026-07-12 14:42:19 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 14:42:19 [INFO] Loading modules
+2026-07-12 14:42:19 [INFO] Registered module: Clear-YandexCache
+2026-07-12 14:42:19 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 14:42:19 [INFO] Registered module: Clear-IISLogs
+2026-07-12 14:42:19 [INFO] Registered module: Clear-Temp
+2026-07-12 14:42:19 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 14:42:19 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 14:42:19 [INFO] Registered module: Clear-WER
+2026-07-12 14:42:19 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 14:42:19 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 14:42:19 [INFO] Executing modules
+2026-07-12 14:42:19 [INFO] Executing module: Clear-Temp
+2026-07-12 14:42:19 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 14:42:19 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 14:42:19 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 14:42:19 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 14:42:19 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 14:42:19 [INFO] Executing module: Clear-YandexCache
+2026-07-12 14:42:19 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 14:42:19 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 14:42:19 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 14:42:19 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 14:42:19 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 14:42:19 [INFO] Executing module: Clear-IISLogs
+2026-07-12 14:42:19 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 14:42:19 [INFO] Executing module: Clear-WER
+2026-07-12 14:42:19 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 14:42:19 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 14:42:23 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 14:42:23 [INFO] SMF finished
+2026-07-12 14:49:53 [INFO] ========== SMF START ==========
+2026-07-12 14:49:53 [INFO] SMF started
+2026-07-12 14:49:53 [INFO] Profile: Analyze
+2026-07-12 14:49:53 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 14:49:53 [INFO] Loading modules
+2026-07-12 14:49:53 [INFO] Registered module: Clear-YandexCache
+2026-07-12 14:49:53 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 14:49:53 [INFO] Registered module: Clear-IISLogs
+2026-07-12 14:49:53 [INFO] Registered module: Clear-Temp
+2026-07-12 14:49:53 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 14:49:53 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 14:49:53 [INFO] Registered module: Clear-WER
+2026-07-12 14:49:53 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 14:49:53 [INFO] Registered module: Clear-UserProfiles
+2026-07-12 14:49:53 [INFO] Executing modules
+2026-07-12 14:49:53 [INFO] Executing module: Clear-Temp
+2026-07-12 14:49:53 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 14:49:53 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 14:49:54 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 14:49:54 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 14:49:54 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 14:49:54 [INFO] Executing module: Clear-YandexCache
+2026-07-12 14:49:54 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 14:49:54 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 14:49:54 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 14:49:54 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 14:49:54 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 14:49:54 [INFO] Executing module: Clear-IISLogs
+2026-07-12 14:49:54 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 14:49:54 [INFO] Executing module: Clear-WER
+2026-07-12 14:49:54 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 14:49:54 [INFO] Executing module: Clear-UserProfiles
+2026-07-12 14:49:57 [INFO] Module finished: Clear-UserProfiles (Completed)
+2026-07-12 14:49:57 [INFO] SMF finished
+2026-07-12 15:01:39 [INFO] ========== SMF START ==========
+2026-07-12 15:01:39 [INFO] SMF started
+2026-07-12 15:01:39 [INFO] Profile: Analyze
+2026-07-12 15:01:39 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 15:01:40 [INFO] Loading modules
+2026-07-12 15:01:40 [INFO] Registered module: Clear-YandexCache
+2026-07-12 15:01:40 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 15:01:40 [INFO] Registered module: Clear-IISLogs
+2026-07-12 15:01:40 [INFO] Registered module: Clear-Temp
+2026-07-12 15:01:40 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 15:01:40 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 15:01:40 [INFO] Registered module: Clear-WER
+2026-07-12 15:01:40 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 15:01:40 [INFO] Module file missing: C:\Users\Admin\Desktop\ServerMaintenance_deep\Modules\Clear-UserProfiles.ps1
+2026-07-12 15:01:40 [INFO] Executing modules
+2026-07-12 15:01:40 [INFO] Executing module: Clear-Temp
+2026-07-12 15:01:40 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 15:01:40 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 15:01:40 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 15:01:40 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 15:01:40 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 15:01:40 [INFO] Executing module: Clear-YandexCache
+2026-07-12 15:01:40 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 15:01:40 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 15:01:40 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 15:01:40 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 15:01:40 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 15:01:40 [INFO] Executing module: Clear-IISLogs
+2026-07-12 15:01:40 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 15:01:40 [INFO] Executing module: Clear-WER
+2026-07-12 15:01:40 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 15:01:40 [INFO] SMF finished
+2026-07-12 15:09:03 [INFO] ========== SMF START ==========
+2026-07-12 15:09:03 [INFO] SMF started
+2026-07-12 15:09:03 [INFO] Profile: Analyze
+2026-07-12 15:09:03 [INFO] WHATIF mode enabled (no changes will be made)
+2026-07-12 15:09:03 [INFO] Loading modules
+2026-07-12 15:09:03 [INFO] Registered module: Clear-YandexCache
+2026-07-12 15:09:03 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 15:09:03 [INFO] Registered module: Clear-IISLogs
+2026-07-12 15:09:03 [INFO] Registered module: Clear-Temp
+2026-07-12 15:09:03 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 15:09:03 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 15:09:03 [INFO] Registered module: Clear-WER
+2026-07-12 15:09:03 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 15:09:03 [INFO] Module file missing: C:\Users\Admin\Desktop\ServerMaintenance_deep\Modules\Clear-UserProfiles.ps1
+2026-07-12 15:09:03 [INFO] Executing modules
+2026-07-12 15:09:03 [INFO] Executing module: Clear-Temp
+2026-07-12 15:09:03 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 15:09:03 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 15:09:03 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 15:09:03 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 15:09:03 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 15:09:03 [INFO] Executing module: Clear-YandexCache
+2026-07-12 15:09:03 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 15:09:03 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 15:09:03 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 15:09:03 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 15:09:03 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 15:09:03 [INFO] Executing module: Clear-IISLogs
+2026-07-12 15:09:03 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 15:09:04 [INFO] Executing module: Clear-WER
+2026-07-12 15:09:04 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 15:09:04 [INFO] SMF finished
+2026-07-12 15:43:54 [INFO] ========== SMF START ==========
+2026-07-12 15:43:54 [INFO] SMF started
+2026-07-12 15:43:54 [INFO] Profile: Analyze
+2026-07-12 15:43:54 [INFO] Loading modules
+2026-07-12 15:43:54 [INFO] Registered module: Clear-YandexCache
+2026-07-12 15:43:54 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 15:43:54 [INFO] Registered module: Clear-IISLogs
+2026-07-12 15:43:54 [INFO] Registered module: Clear-Temp
+2026-07-12 15:43:54 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 15:43:54 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 15:43:54 [INFO] Registered module: Clear-WER
+2026-07-12 15:43:54 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 15:43:54 [INFO] Module file missing: C:\Users\Admin\Desktop\ServerMaintenance_deep\Modules\Clear-UserProfiles.ps1
+2026-07-12 15:43:54 [INFO] Executing modules
+2026-07-12 15:43:54 [INFO] Executing module: Clear-Temp
+2026-07-12 15:43:55 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 15:43:55 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 15:43:55 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 15:43:55 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 15:43:55 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 15:43:55 [INFO] Executing module: Clear-YandexCache
+2026-07-12 15:43:55 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 15:43:55 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 15:43:55 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 15:43:55 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 15:43:55 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 15:43:55 [INFO] Executing module: Clear-IISLogs
+2026-07-12 15:43:55 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 15:43:55 [INFO] Executing module: Clear-WER
+2026-07-12 15:43:55 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 15:43:55 [INFO] SMF finished
+2026-07-12 16:19:39 [INFO] ========== SMF START ==========
+2026-07-12 16:19:40 [INFO] SMF started
+2026-07-12 16:19:40 [INFO] Profile: Analyze
+2026-07-12 16:19:40 [INFO] Loading modules
+2026-07-12 16:19:40 [INFO] Registered module: Clear-YandexCache
+2026-07-12 16:19:40 [INFO] Registered module: Clear-WindowsLogs
+2026-07-12 16:19:40 [INFO] Registered module: Clear-IISLogs
+2026-07-12 16:19:40 [INFO] Registered module: Clear-Temp
+2026-07-12 16:19:40 [INFO] Registered module: Clear-EdgeCache
+2026-07-12 16:19:40 [INFO] Registered module: Clear-RecycleBin
+2026-07-12 16:19:40 [INFO] Registered module: Clear-WER
+2026-07-12 16:19:40 [INFO] Registered module: Clear-ChromeCache
+2026-07-12 16:19:40 [INFO] Module file missing: C:\Users\Admin\Desktop\ServerMaintenance_deep\Modules\Clear-UserProfiles.ps1
+2026-07-12 16:19:40 [INFO] Executing modules
+2026-07-12 16:19:40 [INFO] Executing module: Clear-Temp
+2026-07-12 16:19:40 [INFO] Module finished: Clear-Temp (Completed)
+2026-07-12 16:19:40 [INFO] Executing module: Clear-RecycleBin
+2026-07-12 16:19:40 [INFO] Module finished: Clear-RecycleBin (Completed)
+2026-07-12 16:19:40 [INFO] Executing module: Clear-WindowsLogs
+2026-07-12 16:19:40 [INFO] Module finished: Clear-WindowsLogs (Completed)
+2026-07-12 16:19:40 [INFO] Executing module: Clear-YandexCache
+2026-07-12 16:19:40 [INFO] Module finished: Clear-YandexCache (Completed)
+2026-07-12 16:19:40 [INFO] Executing module: Clear-ChromeCache
+2026-07-12 16:19:40 [INFO] Module finished: Clear-ChromeCache (Completed)
+2026-07-12 16:19:40 [INFO] Executing module: Clear-EdgeCache
+2026-07-12 16:19:40 [INFO] Module finished: Clear-EdgeCache (Completed)
+2026-07-12 16:19:40 [INFO] Executing module: Clear-IISLogs
+2026-07-12 16:19:40 [INFO] Module finished: Clear-IISLogs (Completed)
+2026-07-12 16:19:40 [INFO] Executing module: Clear-WER
+2026-07-12 16:19:40 [INFO] Module finished: Clear-WER (Completed)
+2026-07-12 16:19:40 [INFO] SMF finished

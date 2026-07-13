@@ -1,0 +1,436 @@
+﻿{
+    "Framework":  "Server Maintenance Framework",
+    "Version":  "1.0.0",
+    "Computer":  "DESKTOP-13VJR52",
+    "Profile":  "Analyze",
+    "RunId":  "9203e272-f2fa-4a3e-bcce-066b6d4bf06c",
+    "StartTime":  {
+                      "value":  "\/Date(1783862380012)\/",
+                      "DisplayHint":  2,
+                      "DateTime":  "12 июля 2026 г. 16:19:40"
+                  },
+    "EndTime":  "\/Date(1783862380835)\/",
+    "Duration":  {
+                     "Ticks":  8232716,
+                     "Days":  0,
+                     "Hours":  0,
+                     "Milliseconds":  823,
+                     "Minutes":  0,
+                     "Seconds":  0,
+                     "TotalDays":  9.5286064814814813E-06,
+                     "TotalHours":  0.00022868655555555555,
+                     "TotalMilliseconds":  823.2716,
+                     "TotalMinutes":  0.013721193333333334,
+                     "TotalSeconds":  0.8232716
+                 },
+    "Modules":  [
+                    {
+                        "Module":  "Clear-Temp",
+                        "Status":  "Completed",
+                        "StartTime":  {
+                                          "value":  "\/Date(1783862380230)\/",
+                                          "DisplayHint":  2,
+                                          "DateTime":  "12 июля 2026 г. 16:19:40"
+                                      },
+                        "EndTime":  {
+                                        "value":  "\/Date(1783862380269)\/",
+                                        "DisplayHint":  2,
+                                        "DateTime":  "12 июля 2026 г. 16:19:40"
+                                    },
+                        "Duration":  {
+                                         "Ticks":  385577,
+                                         "Days":  0,
+                                         "Hours":  0,
+                                         "Milliseconds":  38,
+                                         "Minutes":  0,
+                                         "Seconds":  0,
+                                         "TotalDays":  4.4626967592592588E-07,
+                                         "TotalHours":  1.0710472222222221E-05,
+                                         "TotalMilliseconds":  38.557700000000004,
+                                         "TotalMinutes":  0.00064262833333333339,
+                                         "TotalSeconds":  0.0385577
+                                     },
+                        "FilesFound":  7,
+                        "FilesProcessed":  7,
+                        "FilesDeleted":  0,
+                        "FilesSkipped":  0,
+                        "DirectoriesScanned":  0,
+                        "BytesBefore":  2271932,
+                        "BytesFreed":  0,
+                        "Errors":  [
+
+                                   ],
+                        "Warnings":  [
+
+                                     ],
+                        "Details":  [
+                                        "Scanning: C:\\WINDOWS\\Temp",
+                                        "Scanning: C:\\Users\\Admin\\AppData\\Local\\Temp"
+                                    ]
+                    },
+                    {
+                        "Module":  "Clear-RecycleBin",
+                        "Status":  "Completed",
+                        "StartTime":  {
+                                          "value":  "\/Date(1783862380284)\/",
+                                          "DisplayHint":  2,
+                                          "DateTime":  "12 июля 2026 г. 16:19:40"
+                                      },
+                        "EndTime":  {
+                                        "value":  "\/Date(1783862380384)\/",
+                                        "DisplayHint":  2,
+                                        "DateTime":  "12 июля 2026 г. 16:19:40"
+                                    },
+                        "Duration":  {
+                                         "Ticks":  1001630,
+                                         "Days":  0,
+                                         "Hours":  0,
+                                         "Milliseconds":  100,
+                                         "Minutes":  0,
+                                         "Seconds":  0,
+                                         "TotalDays":  1.1592939814814814E-06,
+                                         "TotalHours":  2.7823055555555556E-05,
+                                         "TotalMilliseconds":  100.16300000000001,
+                                         "TotalMinutes":  0.0016693833333333334,
+                                         "TotalSeconds":  0.100163
+                                     },
+                        "FilesFound":  5,
+                        "FilesProcessed":  0,
+                        "FilesDeleted":  0,
+                        "FilesSkipped":  0,
+                        "DirectoriesScanned":  0,
+                        "BytesBefore":  645,
+                        "BytesFreed":  0,
+                        "Errors":  [
+
+                                   ],
+                        "Warnings":  [
+
+                                     ],
+                        "Details":  [
+                                        "Scanning: C:\\$Recycle.Bin",
+                                        "Analyze: Found 1 files in DESKTOP-13VJR52\\Admin recycle bin (0 MB)",
+                                        "Scanning: D:\\$Recycle.Bin",
+                                        "Analyze: Found 1 files in DESKTOP-13VJR52\\Admin recycle bin (0 MB)",
+                                        "Analyze: Found 0 files in S-1-5-21-2436258908-3222565202-660547462-1000 recycle bin (0 MB)",
+                                        "Scanning: E:\\$Recycle.Bin",
+                                        "Analyze: Found 1 files in DESKTOP-13VJR52\\Admin recycle bin (0 MB)",
+                                        "Analyze: Found 0 files in S-1-5-21-2436258908-3222565202-660547462-1000 recycle bin (0 MB)",
+                                        "Scanning: F:\\$Recycle.Bin",
+                                        "Analyze: Found 1 files in DESKTOP-13VJR52\\Admin recycle bin (0 MB)",
+                                        "Analyze: Found 0 files in S-1-5-21-2436258908-3222565202-660547462-1000 recycle bin (0 MB)",
+                                        "Scanning: G:\\$Recycle.Bin",
+                                        "Analyze: Found 1 files in DESKTOP-13VJR52\\Admin recycle bin (0 MB)",
+                                        "Analyze: Found 0 files in S-1-5-21-2436258908-3222565202-660547462-1000 recycle bin (0 MB)"
+                                    ]
+                    },
+                    {
+                        "Module":  "Clear-WindowsLogs",
+                        "Status":  "Completed",
+                        "StartTime":  {
+                                          "value":  "\/Date(1783862380389)\/",
+                                          "DisplayHint":  2,
+                                          "DateTime":  "12 июля 2026 г. 16:19:40"
+                                      },
+                        "EndTime":  {
+                                        "value":  "\/Date(1783862380762)\/",
+                                        "DisplayHint":  2,
+                                        "DateTime":  "12 июля 2026 г. 16:19:40"
+                                    },
+                        "Duration":  {
+                                         "Ticks":  3726372,
+                                         "Days":  0,
+                                         "Hours":  0,
+                                         "Milliseconds":  372,
+                                         "Minutes":  0,
+                                         "Seconds":  0,
+                                         "TotalDays":  4.3129305555555552E-06,
+                                         "TotalHours":  0.00010351033333333332,
+                                         "TotalMilliseconds":  372.6372,
+                                         "TotalMinutes":  0.00621062,
+                                         "TotalSeconds":  0.3726372
+                                     },
+                        "FilesFound":  40,
+                        "FilesProcessed":  0,
+                        "FilesDeleted":  0,
+                        "FilesSkipped":  0,
+                        "DirectoriesScanned":  0,
+                        "BytesBefore":  0,
+                        "BytesFreed":  0,
+                        "Errors":  [
+
+                                   ],
+                        "Warnings":  [
+
+                                     ],
+                        "Details":  [
+                                        "Keep days: 30",
+                                        "Delete mode: False",
+                                        "Log: Windows PowerShell Records: 412",
+                                        "Log: System Records: 31",
+                                        "Log: Security Records: 461",
+                                        "Log: Realtek Records: 12",
+                                        "Log: Application Records: 34",
+                                        "Log: Microsoft-Windows-WMI-Activity/Operational Records: 32",
+                                        "Log: Microsoft-Windows-WinRM/Operational Records: 4",
+                                        "Log: Microsoft-Windows-WindowsUpdateClient/Operational Records: 3",
+                                        "Log: Microsoft-Windows-Windows Defender/Operational Records: 10",
+                                        "Log: Microsoft-Windows-UniversalTelemetryClient/Operational Records: 12",
+                                        "Log: Microsoft-Windows-TerminalServices-RDPClient/Operational Records: 10",
+                                        "Log: Microsoft-Windows-TerminalServices-LocalSessionManager/Operational Records: 6",
+                                        "Log: Microsoft-Windows-Store/Operational Records: 2118",
+                                        "Log: Microsoft-Windows-Storage-Storport/Operational Records: 22",
+                                        "Log: Microsoft-Windows-Storage-Storport/Health Records: 8",
+                                        "Log: Microsoft-Windows-StateRepository/Operational Records: 22",
+                                        "Log: Microsoft-Windows-SMBServer/Connectivity Records: 33",
+                                        "Log: Microsoft-Windows-SmbClient/Connectivity Records: 58",
+                                        "Log: Microsoft-Windows-Shell-Core/Operational Records: 3",
+                                        "Log: Microsoft-Windows-Security-Mitigations/KernelMode Records: 89",
+                                        "Log: Microsoft-Windows-PushNotification-Platform/Operational Records: 61",
+                                        "Log: Microsoft-Windows-PowerShell/Operational Records: 321",
+                                        "Log: Microsoft-Windows-NTLM/Operational Records: 1",
+                                        "Log: Microsoft-Windows-Ntfs/Operational Records: 139",
+                                        "Log: Microsoft-Windows-LiveId/Operational Records: 632",
+                                        "Log: Microsoft-Windows-Known Folders API Service Records: 9",
+                                        "Log: Microsoft-Windows-Kernel-PnP/Device Management Records: 4",
+                                        "Log: Microsoft-Windows-Kernel-EventTracing/Admin Records: 2",
+                                        "Log: Microsoft-Windows-Kernel-Cache/Operational Records: 30",
+                                        "Log: Microsoft-Windows-GroupPolicy/Operational Records: 336",
+                                        "Log: Microsoft-Windows-Diagnosis-PCW/Operational Records: 31",
+                                        "Log: Microsoft-Windows-Bits-Client/Operational Records: 8",
+                                        "Log: Microsoft-Windows-Audio/PlaybackManager Records: 2",
+                                        "Log: Microsoft-Windows-Audio/Operational Records: 62",
+                                        "Log: Microsoft-Windows-AppxPackaging/Operational Records: 6",
+                                        "Log: Microsoft-Windows-AppXDeploymentServer/Operational Records: 46",
+                                        "Log: Microsoft-Windows-AppModel-Runtime/Admin Records: 98",
+                                        "Log: Microsoft-Windows-Application-Experience/Program-Telemetry Records: 26",
+                                        "Log: Microsoft-Windows-Application-Experience/Program-Compatibility-Assistant Records: 1",
+                                        "Log: Microsoft-Client-Licensing-Platform/Admin Records: 71"
+                                    ]
+                    },
+                    {
+                        "Module":  "Clear-YandexCache",
+                        "Status":  "Completed",
+                        "StartTime":  {
+                                          "value":  "\/Date(1783862380768)\/",
+                                          "DisplayHint":  2,
+                                          "DateTime":  "12 июля 2026 г. 16:19:40"
+                                      },
+                        "EndTime":  {
+                                        "value":  "\/Date(1783862380784)\/",
+                                        "DisplayHint":  2,
+                                        "DateTime":  "12 июля 2026 г. 16:19:40"
+                                    },
+                        "Duration":  {
+                                         "Ticks":  160167,
+                                         "Days":  0,
+                                         "Hours":  0,
+                                         "Milliseconds":  16,
+                                         "Minutes":  0,
+                                         "Seconds":  0,
+                                         "TotalDays":  1.8537847222222222E-07,
+                                         "TotalHours":  4.4490833333333328E-06,
+                                         "TotalMilliseconds":  16.0167,
+                                         "TotalMinutes":  0.000266945,
+                                         "TotalSeconds":  0.0160167
+                                     },
+                        "FilesFound":  266,
+                        "FilesProcessed":  0,
+                        "FilesDeleted":  0,
+                        "FilesSkipped":  0,
+                        "DirectoriesScanned":  0,
+                        "BytesBefore":  12564480,
+                        "BytesFreed":  0,
+                        "Errors":  [
+
+                                   ],
+                        "Warnings":  [
+
+                                     ],
+                        "Details":  [
+                                        "Scanning: C:\\Users\\Admin\\AppData\\Local\\Yandex\\YandexBrowser\\User Data\\Default\\Cache",
+                                        "Scanning: C:\\Users\\Admin\\AppData\\Local\\Yandex\\YandexBrowser\\User Data\\Default\\Code Cache",
+                                        "Scanning: C:\\Users\\Admin\\AppData\\Local\\Yandex\\YandexBrowser\\User Data\\Default\\GPUCache",
+                                        "Scanning: C:\\Users\\Admin\\AppData\\Local\\Yandex\\YandexBrowser\\User Data\\Default\\Service Worker\\CacheStorage"
+                                    ]
+                    },
+                    {
+                        "Module":  "Clear-ChromeCache",
+                        "Status":  "Completed",
+                        "StartTime":  {
+                                          "value":  "\/Date(1783862380790)\/",
+                                          "DisplayHint":  2,
+                                          "DateTime":  "12 июля 2026 г. 16:19:40"
+                                      },
+                        "EndTime":  {
+                                        "value":  "\/Date(1783862380792)\/",
+                                        "DisplayHint":  2,
+                                        "DateTime":  "12 июля 2026 г. 16:19:40"
+                                    },
+                        "Duration":  {
+                                         "Ticks":  20007,
+                                         "Days":  0,
+                                         "Hours":  0,
+                                         "Milliseconds":  2,
+                                         "Minutes":  0,
+                                         "Seconds":  0,
+                                         "TotalDays":  2.315625E-08,
+                                         "TotalHours":  5.5574999999999993E-07,
+                                         "TotalMilliseconds":  2.0007,
+                                         "TotalMinutes":  3.3345E-05,
+                                         "TotalSeconds":  0.0020007
+                                     },
+                        "FilesFound":  0,
+                        "FilesProcessed":  0,
+                        "FilesDeleted":  0,
+                        "FilesSkipped":  0,
+                        "DirectoriesScanned":  0,
+                        "BytesBefore":  0,
+                        "BytesFreed":  0,
+                        "Errors":  [
+
+                                   ],
+                        "Warnings":  [
+
+                                     ],
+                        "Details":  [
+
+                                    ]
+                    },
+                    {
+                        "Module":  "Clear-EdgeCache",
+                        "Status":  "Completed",
+                        "StartTime":  {
+                                          "value":  "\/Date(1783862380796)\/",
+                                          "DisplayHint":  2,
+                                          "DateTime":  "12 июля 2026 г. 16:19:40"
+                                      },
+                        "EndTime":  {
+                                        "value":  "\/Date(1783862380804)\/",
+                                        "DisplayHint":  2,
+                                        "DateTime":  "12 июля 2026 г. 16:19:40"
+                                    },
+                        "Duration":  {
+                                         "Ticks":  80005,
+                                         "Days":  0,
+                                         "Hours":  0,
+                                         "Milliseconds":  8,
+                                         "Minutes":  0,
+                                         "Seconds":  0,
+                                         "TotalDays":  9.2598379629629624E-08,
+                                         "TotalHours":  2.222361111111111E-06,
+                                         "TotalMilliseconds":  8.0005,
+                                         "TotalMinutes":  0.00013334166666666668,
+                                         "TotalSeconds":  0.0080004999999999989
+                                     },
+                        "FilesFound":  0,
+                        "FilesProcessed":  0,
+                        "FilesDeleted":  0,
+                        "FilesSkipped":  0,
+                        "DirectoriesScanned":  0,
+                        "BytesBefore":  0,
+                        "BytesFreed":  0,
+                        "Errors":  [
+
+                                   ],
+                        "Warnings":  [
+
+                                     ],
+                        "Details":  [
+                                        "Scanning: C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Cache",
+                                        "Scanning: C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Code Cache",
+                                        "Scanning: C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\GPUCache",
+                                        "Scanning: C:\\Users\\Admin\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Service Worker\\CacheStorage"
+                                    ]
+                    },
+                    {
+                        "Module":  "Clear-IISLogs",
+                        "Status":  "Completed",
+                        "StartTime":  {
+                                          "value":  "\/Date(1783862380809)\/",
+                                          "DisplayHint":  2,
+                                          "DateTime":  "12 июля 2026 г. 16:19:40"
+                                      },
+                        "EndTime":  {
+                                        "value":  "\/Date(1783862380810)\/",
+                                        "DisplayHint":  2,
+                                        "DateTime":  "12 июля 2026 г. 16:19:40"
+                                    },
+                        "Duration":  {
+                                         "Ticks":  10208,
+                                         "Days":  0,
+                                         "Hours":  0,
+                                         "Milliseconds":  1,
+                                         "Minutes":  0,
+                                         "Seconds":  0,
+                                         "TotalDays":  1.1814814814814814E-08,
+                                         "TotalHours":  2.8355555555555552E-07,
+                                         "TotalMilliseconds":  1.0208000000000002,
+                                         "TotalMinutes":  1.7013333333333335E-05,
+                                         "TotalSeconds":  0.0010207999999999999
+                                     },
+                        "FilesFound":  0,
+                        "FilesProcessed":  0,
+                        "FilesDeleted":  0,
+                        "FilesSkipped":  0,
+                        "DirectoriesScanned":  0,
+                        "BytesBefore":  0,
+                        "BytesFreed":  0,
+                        "Errors":  [
+
+                                   ],
+                        "Warnings":  [
+
+                                     ],
+                        "Details":  [
+                                        "Keep days: 30",
+                                        "Path not found: C:\\inetpub\\logs\\LogFiles"
+                                    ]
+                    },
+                    {
+                        "Module":  "Clear-WER",
+                        "Status":  "Completed",
+                        "StartTime":  {
+                                          "value":  "\/Date(1783862380815)\/",
+                                          "DisplayHint":  2,
+                                          "DateTime":  "12 июля 2026 г. 16:19:40"
+                                      },
+                        "EndTime":  {
+                                        "value":  "\/Date(1783862380825)\/",
+                                        "DisplayHint":  2,
+                                        "DateTime":  "12 июля 2026 г. 16:19:40"
+                                    },
+                        "Duration":  {
+                                         "Ticks":  95080,
+                                         "Days":  0,
+                                         "Hours":  0,
+                                         "Milliseconds":  9,
+                                         "Minutes":  0,
+                                         "Seconds":  0,
+                                         "TotalDays":  1.1004629629629629E-07,
+                                         "TotalHours":  2.641111111111111E-06,
+                                         "TotalMilliseconds":  9.5080000000000009,
+                                         "TotalMinutes":  0.00015846666666666668,
+                                         "TotalSeconds":  0.0095079999999999991
+                                     },
+                        "FilesFound":  1,
+                        "FilesProcessed":  0,
+                        "FilesDeleted":  0,
+                        "FilesSkipped":  0,
+                        "DirectoriesScanned":  0,
+                        "BytesBefore":  8038,
+                        "BytesFreed":  0,
+                        "Errors":  [
+
+                                   ],
+                        "Warnings":  [
+
+                                     ],
+                        "Details":  [
+                                        "Keep days: 30",
+                                        "Scanning: C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportArchive",
+                                        "Scanning: C:\\ProgramData\\Microsoft\\Windows\\WER\\ReportQueue"
+                                    ]
+                    }
+                ]
+}
