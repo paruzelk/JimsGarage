@@ -88,11 +88,8 @@ $SMFConfig = @{
 
     # Module definitions
     Modules = @{
-        "Test-Module" = @{
-            Enabled  = $false
-            Order    = 1
-            Profiles = @("Analyze", "Day", "Night")
-        }
+        
+        
         "Clear-Temp" = @{
             Enabled  = $true
             Order    = 10
